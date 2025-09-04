@@ -1,25 +1,9 @@
 # Hi there, I'm Jasim Uddin Santo 👋
 
+![Profile GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 A Passionate and Self-Taught Full-Stack Developer from Bangladesh.  
 I love turning ideas into reality through clean code and beautiful interfaces.
-
----
-
-### 🚀 About Me
-- 3+ years of hands-on programming experience  
-- Full-stack dev exploring **Flutter** & **Django REST Framework**  
-- Building elegant and efficient software  
-- Creating **cross-platform mobile apps** with Flutter  
-- Always learning and seeking new challenges  
-
----
-
-### 💻 Tech & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ---
 
@@ -30,4 +14,21 @@ I love turning ideas into reality through clean code and beautiful interfaces.
 
 ---
 
-✨ Let's connect and build amazing things together!
+### 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Jasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasim-uddin-shanto-6b75a1329&show_icons=true&theme=radical)
+
+### 📊 Most Used Languages
+![Jasim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasim-uddin-shanto-6b75a1329&layout=compact&theme=radical)
