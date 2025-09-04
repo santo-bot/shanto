@@ -1,7 +1,5 @@
 # Hi there, I'm Jasim Uddin Santo 👋
 
-![Profile GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
 A Passionate and Self-Taught Full-Stack Developer from Bangladesh.  
 I love turning ideas into reality through clean code and beautiful interfaces.
 
@@ -26,8 +24,8 @@ I love turning ideas into reality through clean code and beautiful interfaces.
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasim-uddin-shanto/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasim-uddin-shanto-6b75a1329)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
 
 ---
