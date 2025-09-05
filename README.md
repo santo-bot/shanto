@@ -1,6 +1,6 @@
 # Hi there, I'm Jasim Uddin Santo 👋
 
-A Passionate and Self-Taught Full-Stack Developer from Bangladesh.  
+A Passionate and Self-Taught Flutter Developer from Bangladesh.  
 I love turning ideas into reality through clean code and beautiful interfaces.
 
 ---
